@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### [notebooks]
 
-こちらのディレクトリでは、Jupyter Notebook を配置しています。
+こちらのディレクトリには、Jupyter Notebook を配置しています。
 
 - [フィルタ設計]
 - [データ可視化]
